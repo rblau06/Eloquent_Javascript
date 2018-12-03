@@ -1,3 +1,4 @@
 # Ignore .idea directory and information in it.
 .idea
 .idea/*
+../.idea/*
